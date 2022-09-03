@@ -1,5 +1,4 @@
-vi build.yml
-name: Publish DockerHub image
+name: Publish to Docker Hub
 
 on:
   push:
